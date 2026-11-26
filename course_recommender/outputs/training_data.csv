@@ -1,0 +1,1001 @@
+python_marks,maths_marks,programming_marks,average_marks,min_average_marks,credits,skill_overlap,interest_match,interest,career_goal,course_name,category,domain,recommended
+41,87,57,61.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+41,87,57,61.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+41,87,57,61.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+41,87,57,61.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+41,87,57,61.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+41,87,57,61.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+41,87,57,61.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+41,87,57,61.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+41,87,57,61.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+41,87,57,61.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+54,48,87,63.0,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+54,48,87,63.0,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,0
+54,48,87,63.0,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+54,48,87,63.0,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+54,48,87,63.0,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+54,48,87,63.0,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+54,48,87,63.0,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,0
+54,48,87,63.0,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+54,48,87,63.0,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+54,48,87,63.0,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+83,87,97,89.0,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+83,87,97,89.0,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+83,87,97,89.0,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+83,87,97,89.0,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+83,87,97,89.0,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+83,87,97,89.0,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+83,87,97,89.0,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+83,87,97,89.0,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+83,87,97,89.0,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+83,87,97,89.0,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+45,77,67,63.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+45,77,67,63.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+45,77,67,63.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+45,77,67,63.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+45,77,67,63.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+45,77,67,63.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+45,77,67,63.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+45,77,67,63.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+45,77,67,63.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+45,77,67,63.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+41,45,53,46.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+41,45,53,46.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+41,45,53,46.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,0
+41,45,53,46.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+41,45,53,46.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+41,45,53,46.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,0
+41,45,53,46.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+41,45,53,46.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+41,45,53,46.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+41,45,53,46.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+72,78,41,63.67,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+72,78,41,63.67,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,0
+72,78,41,63.67,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+72,78,41,63.67,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+72,78,41,63.67,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+72,78,41,63.67,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+72,78,41,63.67,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,0
+72,78,41,63.67,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+72,78,41,63.67,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+72,78,41,63.67,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+52,85,81,72.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+52,85,81,72.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+52,85,81,72.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+52,85,81,72.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+52,85,81,72.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+52,85,81,72.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+52,85,81,72.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+52,85,81,72.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+52,85,81,72.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+52,85,81,72.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+66,54,68,62.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+66,54,68,62.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+66,54,68,62.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+66,54,68,62.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+66,54,68,62.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+66,54,68,62.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+66,54,68,62.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+66,54,68,62.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+66,54,68,62.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+66,54,68,62.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+57,91,95,81.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+57,91,95,81.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+57,91,95,81.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+57,91,95,81.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+57,91,95,81.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+57,91,95,81.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+57,91,95,81.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+57,91,95,81.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+57,91,95,81.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+57,91,95,81.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+88,91,50,76.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+88,91,50,76.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+88,91,50,76.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+88,91,50,76.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+88,91,50,76.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+88,91,50,76.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+88,91,50,76.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+88,91,50,76.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+88,91,50,76.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+88,91,50,76.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+61,57,49,55.67,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+61,57,49,55.67,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+61,57,49,55.67,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+61,57,49,55.67,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+61,57,49,55.67,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,0
+61,57,49,55.67,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+61,57,49,55.67,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+61,57,49,55.67,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+61,57,49,55.67,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+61,57,49,55.67,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+88,61,46,65.0,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+88,61,46,65.0,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,1
+88,61,46,65.0,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+88,61,46,65.0,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+88,61,46,65.0,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+88,61,46,65.0,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+88,61,46,65.0,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,0
+88,61,46,65.0,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+88,61,46,65.0,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+88,61,46,65.0,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+64,46,62,57.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+64,46,62,57.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+64,46,62,57.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,0
+64,46,62,57.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+64,46,62,57.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+64,46,62,57.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+64,46,62,57.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+64,46,62,57.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+64,46,62,57.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+64,46,62,57.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+78,56,91,75.0,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+78,56,91,75.0,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+78,56,91,75.0,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+78,56,91,75.0,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+78,56,91,75.0,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+78,56,91,75.0,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+78,56,91,75.0,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+78,56,91,75.0,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+78,56,91,75.0,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+78,56,91,75.0,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+86,69,74,76.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+86,69,74,76.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+86,69,74,76.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+86,69,74,76.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+86,69,74,76.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+86,69,74,76.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+86,69,74,76.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+86,69,74,76.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+86,69,74,76.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+86,69,74,76.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+99,64,45,69.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+99,64,45,69.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+99,64,45,69.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+99,64,45,69.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+99,64,45,69.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+99,64,45,69.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+99,64,45,69.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+99,64,45,69.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+99,64,45,69.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+99,64,45,69.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+58,93,80,77.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+58,93,80,77.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+58,93,80,77.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+58,93,80,77.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+58,93,80,77.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+58,93,80,77.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+58,93,80,77.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+58,93,80,77.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+58,93,80,77.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+58,93,80,77.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+96,95,63,84.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+96,95,63,84.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+96,95,63,84.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+96,95,63,84.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+96,95,63,84.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+96,95,63,84.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+96,95,63,84.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+96,95,63,84.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+96,95,63,84.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+96,95,63,84.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+52,85,44,60.33,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+52,85,44,60.33,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+52,85,44,60.33,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+52,85,44,60.33,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+52,85,44,60.33,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+52,85,44,60.33,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+52,85,44,60.33,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+52,85,44,60.33,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+52,85,44,60.33,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+52,85,44,60.33,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+82,54,89,75.0,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+82,54,89,75.0,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+82,54,89,75.0,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+82,54,89,75.0,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+82,54,89,75.0,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+82,54,89,75.0,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+82,54,89,75.0,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+82,54,89,75.0,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+82,54,89,75.0,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+82,54,89,75.0,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+45,94,54,64.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+45,94,54,64.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+45,94,54,64.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+45,94,54,64.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+45,94,54,64.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+45,94,54,64.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+45,94,54,64.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+45,94,54,64.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+45,94,54,64.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+45,94,54,64.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+64,57,69,63.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+64,57,69,63.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+64,57,69,63.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+64,57,69,63.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+64,57,69,63.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+64,57,69,63.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+64,57,69,63.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+64,57,69,63.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+64,57,69,63.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+64,57,69,63.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+50,63,62,58.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+50,63,62,58.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+50,63,62,58.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+50,63,62,58.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+50,63,62,58.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+50,63,62,58.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+50,63,62,58.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+50,63,62,58.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+50,63,62,58.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+50,63,62,58.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+82,57,84,74.33,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+82,57,84,74.33,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,1
+82,57,84,74.33,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+82,57,84,74.33,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+82,57,84,74.33,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+82,57,84,74.33,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+82,57,84,74.33,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,1
+82,57,84,74.33,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+82,57,84,74.33,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,1
+82,57,84,74.33,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+78,80,50,69.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+78,80,50,69.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+78,80,50,69.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+78,80,50,69.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+78,80,50,69.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+78,80,50,69.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+78,80,50,69.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+78,80,50,69.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+78,80,50,69.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+78,80,50,69.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+86,55,50,63.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+86,55,50,63.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+86,55,50,63.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+86,55,50,63.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+86,55,50,63.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+86,55,50,63.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+86,55,50,63.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+86,55,50,63.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+86,55,50,63.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+86,55,50,63.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+64,57,99,73.33,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+64,57,99,73.33,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+64,57,99,73.33,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+64,57,99,73.33,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+64,57,99,73.33,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+64,57,99,73.33,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+64,57,99,73.33,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+64,57,99,73.33,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+64,57,99,73.33,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+64,57,99,73.33,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+54,83,60,65.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+54,83,60,65.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+54,83,60,65.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+54,83,60,65.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+54,83,60,65.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+54,83,60,65.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+54,83,60,65.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+54,83,60,65.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+54,83,60,65.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+54,83,60,65.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+54,92,42,62.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+54,92,42,62.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+54,92,42,62.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+54,92,42,62.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+54,92,42,62.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+54,92,42,62.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+54,92,42,62.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+54,92,42,62.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+54,92,42,62.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+54,92,42,62.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+65,57,44,55.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+65,57,44,55.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+65,57,44,55.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+65,57,44,55.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+65,57,44,55.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+65,57,44,55.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+65,57,44,55.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+65,57,44,55.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+65,57,44,55.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+65,57,44,55.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+98,100,76,91.33,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+98,100,76,91.33,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,1
+98,100,76,91.33,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+98,100,76,91.33,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+98,100,76,91.33,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+98,100,76,91.33,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+98,100,76,91.33,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,1
+98,100,76,91.33,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+98,100,76,91.33,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,1
+98,100,76,91.33,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+53,81,71,68.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+53,81,71,68.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+53,81,71,68.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+53,81,71,68.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+53,81,71,68.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+53,81,71,68.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+53,81,71,68.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+53,81,71,68.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+53,81,71,68.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+53,81,71,68.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+96,98,81,91.67,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+96,98,81,91.67,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+96,98,81,91.67,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+96,98,81,91.67,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+96,98,81,91.67,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+96,98,81,91.67,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+96,98,81,91.67,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+96,98,81,91.67,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+96,98,81,91.67,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+96,98,81,91.67,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+49,56,48,51.0,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+49,56,48,51.0,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+49,56,48,51.0,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+49,56,48,51.0,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+49,56,48,51.0,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,0
+49,56,48,51.0,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,0
+49,56,48,51.0,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+49,56,48,51.0,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+49,56,48,51.0,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+49,56,48,51.0,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+87,75,74,78.67,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+87,75,74,78.67,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,1
+87,75,74,78.67,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+87,75,74,78.67,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+87,75,74,78.67,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+87,75,74,78.67,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+87,75,74,78.67,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,1
+87,75,74,78.67,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+87,75,74,78.67,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,1
+87,75,74,78.67,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+87,77,67,77.0,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+87,77,67,77.0,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+87,77,67,77.0,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+87,77,67,77.0,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+87,77,67,77.0,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+87,77,67,77.0,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+87,77,67,77.0,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+87,77,67,77.0,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+87,77,67,77.0,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+87,77,67,77.0,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+65,63,54,60.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+65,63,54,60.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+65,63,54,60.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+65,63,54,60.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+65,63,54,60.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+65,63,54,60.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+65,63,54,60.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+65,63,54,60.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+65,63,54,60.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+65,63,54,60.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+72,71,45,62.67,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+72,71,45,62.67,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,0
+72,71,45,62.67,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+72,71,45,62.67,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+72,71,45,62.67,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+72,71,45,62.67,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+72,71,45,62.67,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,0
+72,71,45,62.67,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+72,71,45,62.67,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+72,71,45,62.67,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+95,47,49,63.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+95,47,49,63.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+95,47,49,63.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+95,47,49,63.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+95,47,49,63.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+95,47,49,63.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+95,47,49,63.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+95,47,49,63.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+95,47,49,63.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+95,47,49,63.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+90,83,67,80.0,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+90,83,67,80.0,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,1
+90,83,67,80.0,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+90,83,67,80.0,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+90,83,67,80.0,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+90,83,67,80.0,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+90,83,67,80.0,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,1
+90,83,67,80.0,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+90,83,67,80.0,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,1
+90,83,67,80.0,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+44,64,64,57.33,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+44,64,64,57.33,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+44,64,64,57.33,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,0
+44,64,64,57.33,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+44,64,64,57.33,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,0
+44,64,64,57.33,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+44,64,64,57.33,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+44,64,64,57.33,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+44,64,64,57.33,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+44,64,64,57.33,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+69,73,56,66.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+69,73,56,66.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+69,73,56,66.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+69,73,56,66.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+69,73,56,66.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+69,73,56,66.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+69,73,56,66.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+69,73,56,66.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+69,73,56,66.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+69,73,56,66.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+95,100,40,78.33,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+95,100,40,78.33,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+95,100,40,78.33,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+95,100,40,78.33,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+95,100,40,78.33,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+95,100,40,78.33,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+95,100,40,78.33,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+95,100,40,78.33,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+95,100,40,78.33,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+95,100,40,78.33,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+83,96,74,84.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+83,96,74,84.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+83,96,74,84.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+83,96,74,84.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+83,96,74,84.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+83,96,74,84.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+83,96,74,84.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+83,96,74,84.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+83,96,74,84.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+83,96,74,84.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+89,81,61,77.0,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+89,81,61,77.0,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+89,81,61,77.0,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+89,81,61,77.0,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+89,81,61,77.0,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+89,81,61,77.0,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+89,81,61,77.0,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+89,81,61,77.0,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+89,81,61,77.0,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+89,81,61,77.0,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+58,67,50,58.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+58,67,50,58.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+58,67,50,58.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,0
+58,67,50,58.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+58,67,50,58.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+58,67,50,58.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+58,67,50,58.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+58,67,50,58.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+58,67,50,58.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+58,67,50,58.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+40,86,96,74.0,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+40,86,96,74.0,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+40,86,96,74.0,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+40,86,96,74.0,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+40,86,96,74.0,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+40,86,96,74.0,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+40,86,96,74.0,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+40,86,96,74.0,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+40,86,96,74.0,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+40,86,96,74.0,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+72,88,51,70.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+72,88,51,70.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+72,88,51,70.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+72,88,51,70.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+72,88,51,70.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+72,88,51,70.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+72,88,51,70.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+72,88,51,70.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+72,88,51,70.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+72,88,51,70.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+98,46,95,79.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+98,46,95,79.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+98,46,95,79.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+98,46,95,79.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+98,46,95,79.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+98,46,95,79.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+98,46,95,79.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+98,46,95,79.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+98,46,95,79.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+98,46,95,79.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+93,80,72,81.67,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+93,80,72,81.67,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+93,80,72,81.67,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+93,80,72,81.67,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+93,80,72,81.67,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+93,80,72,81.67,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+93,80,72,81.67,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+93,80,72,81.67,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+93,80,72,81.67,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+93,80,72,81.67,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+52,49,63,54.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+52,49,63,54.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+52,49,63,54.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,0
+52,49,63,54.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+52,49,63,54.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,0
+52,49,63,54.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,0
+52,49,63,54.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+52,49,63,54.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+52,49,63,54.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+52,49,63,54.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+74,89,99,87.33,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+74,89,99,87.33,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,1
+74,89,99,87.33,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+74,89,99,87.33,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+74,89,99,87.33,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+74,89,99,87.33,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+74,89,99,87.33,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,1
+74,89,99,87.33,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+74,89,99,87.33,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,1
+74,89,99,87.33,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+98,40,78,72.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+98,40,78,72.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+98,40,78,72.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+98,40,78,72.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+98,40,78,72.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+98,40,78,72.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+98,40,78,72.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+98,40,78,72.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+98,40,78,72.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+98,40,78,72.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+71,41,47,53.0,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+71,41,47,53.0,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+71,41,47,53.0,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+71,41,47,53.0,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+71,41,47,53.0,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+71,41,47,53.0,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+71,41,47,53.0,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+71,41,47,53.0,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+71,41,47,53.0,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+71,41,47,53.0,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+96,93,91,93.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+96,93,91,93.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+96,93,91,93.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+96,93,91,93.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+96,93,91,93.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+96,93,91,93.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+96,93,91,93.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+96,93,91,93.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+96,93,91,93.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+96,93,91,93.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+55,43,55,51.0,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+55,43,55,51.0,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+55,43,55,51.0,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+55,43,55,51.0,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+55,43,55,51.0,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+55,43,55,51.0,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+55,43,55,51.0,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+55,43,55,51.0,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+55,43,55,51.0,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+55,43,55,51.0,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+100,45,45,63.33,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+100,45,45,63.33,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+100,45,45,63.33,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+100,45,45,63.33,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+100,45,45,63.33,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+100,45,45,63.33,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+100,45,45,63.33,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+100,45,45,63.33,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+100,45,45,63.33,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+100,45,45,63.33,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+92,44,88,74.67,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+92,44,88,74.67,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+92,44,88,74.67,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+92,44,88,74.67,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+92,44,88,74.67,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+92,44,88,74.67,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+92,44,88,74.67,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+92,44,88,74.67,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+92,44,88,74.67,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+92,44,88,74.67,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+89,48,48,61.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+89,48,48,61.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+89,48,48,61.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+89,48,48,61.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+89,48,48,61.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+89,48,48,61.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+89,48,48,61.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+89,48,48,61.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+89,48,48,61.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+89,48,48,61.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+100,75,50,75.0,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+100,75,50,75.0,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+100,75,50,75.0,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+100,75,50,75.0,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+100,75,50,75.0,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+100,75,50,75.0,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+100,75,50,75.0,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+100,75,50,75.0,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+100,75,50,75.0,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+100,75,50,75.0,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+73,95,78,82.0,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+73,95,78,82.0,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+73,95,78,82.0,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+73,95,78,82.0,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+73,95,78,82.0,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+73,95,78,82.0,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+73,95,78,82.0,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+73,95,78,82.0,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+73,95,78,82.0,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+73,95,78,82.0,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+53,99,74,75.33,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+53,99,74,75.33,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+53,99,74,75.33,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+53,99,74,75.33,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+53,99,74,75.33,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+53,99,74,75.33,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+53,99,74,75.33,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+53,99,74,75.33,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+53,99,74,75.33,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+53,99,74,75.33,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+85,59,65,69.67,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+85,59,65,69.67,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,1
+85,59,65,69.67,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+85,59,65,69.67,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+85,59,65,69.67,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+85,59,65,69.67,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+85,59,65,69.67,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,0
+85,59,65,69.67,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+85,59,65,69.67,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+85,59,65,69.67,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+68,97,73,79.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+68,97,73,79.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+68,97,73,79.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+68,97,73,79.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+68,97,73,79.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+68,97,73,79.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+68,97,73,79.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+68,97,73,79.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+68,97,73,79.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+68,97,73,79.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+47,55,54,52.0,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+47,55,54,52.0,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+47,55,54,52.0,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+47,55,54,52.0,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+47,55,54,52.0,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,0
+47,55,54,52.0,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,0
+47,55,54,52.0,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+47,55,54,52.0,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+47,55,54,52.0,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+47,55,54,52.0,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+61,41,77,59.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+61,41,77,59.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+61,41,77,59.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,0
+61,41,77,59.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+61,41,77,59.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+61,41,77,59.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+61,41,77,59.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+61,41,77,59.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+61,41,77,59.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+61,41,77,59.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+54,77,54,61.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+54,77,54,61.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+54,77,54,61.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+54,77,54,61.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+54,77,54,61.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+54,77,54,61.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+54,77,54,61.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+54,77,54,61.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+54,77,54,61.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+54,77,54,61.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+44,85,80,69.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+44,85,80,69.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+44,85,80,69.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+44,85,80,69.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+44,85,80,69.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+44,85,80,69.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+44,85,80,69.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+44,85,80,69.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+44,85,80,69.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+44,85,80,69.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+54,44,97,65.0,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+54,44,97,65.0,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+54,44,97,65.0,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+54,44,97,65.0,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+54,44,97,65.0,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+54,44,97,65.0,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+54,44,97,65.0,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+54,44,97,65.0,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+54,44,97,65.0,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+54,44,97,65.0,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+95,61,44,66.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+95,61,44,66.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+95,61,44,66.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+95,61,44,66.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+95,61,44,66.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+95,61,44,66.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+95,61,44,66.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+95,61,44,66.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+95,61,44,66.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+95,61,44,66.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+55,57,82,64.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+55,57,82,64.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+55,57,82,64.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+55,57,82,64.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+55,57,82,64.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+55,57,82,64.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+55,57,82,64.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+55,57,82,64.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+55,57,82,64.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+55,57,82,64.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+53,74,48,58.33,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+53,74,48,58.33,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+53,74,48,58.33,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+53,74,48,58.33,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+53,74,48,58.33,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,0
+53,74,48,58.33,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+53,74,48,58.33,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+53,74,48,58.33,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+53,74,48,58.33,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+53,74,48,58.33,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+76,70,55,67.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+76,70,55,67.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+76,70,55,67.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+76,70,55,67.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+76,70,55,67.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+76,70,55,67.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+76,70,55,67.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+76,70,55,67.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+76,70,55,67.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+76,70,55,67.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+91,66,52,69.67,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+91,66,52,69.67,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+91,66,52,69.67,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+91,66,52,69.67,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+91,66,52,69.67,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+91,66,52,69.67,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+91,66,52,69.67,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+91,66,52,69.67,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+91,66,52,69.67,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+91,66,52,69.67,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+46,82,67,65.0,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+46,82,67,65.0,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+46,82,67,65.0,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+46,82,67,65.0,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+46,82,67,65.0,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+46,82,67,65.0,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+46,82,67,65.0,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+46,82,67,65.0,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+46,82,67,65.0,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+46,82,67,65.0,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+67,66,69,67.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+67,66,69,67.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+67,66,69,67.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+67,66,69,67.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+67,66,69,67.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+67,66,69,67.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+67,66,69,67.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+67,66,69,67.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+67,66,69,67.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+67,66,69,67.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+83,81,81,81.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+83,81,81,81.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+83,81,81,81.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+83,81,81,81.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+83,81,81,81.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+83,81,81,81.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+83,81,81,81.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+83,81,81,81.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+83,81,81,81.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+83,81,81,81.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+43,65,86,64.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+43,65,86,64.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+43,65,86,64.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+43,65,86,64.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+43,65,86,64.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+43,65,86,64.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+43,65,86,64.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+43,65,86,64.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+43,65,86,64.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+43,65,86,64.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+91,95,46,77.33,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+91,95,46,77.33,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+91,95,46,77.33,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+91,95,46,77.33,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+91,95,46,77.33,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+91,95,46,77.33,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+91,95,46,77.33,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+91,95,46,77.33,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+91,95,46,77.33,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+91,95,46,77.33,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+52,52,74,59.33,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+52,52,74,59.33,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,0
+52,52,74,59.33,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,0
+52,52,74,59.33,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+52,52,74,59.33,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+52,52,74,59.33,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+52,52,74,59.33,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,0
+52,52,74,59.33,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+52,52,74,59.33,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+52,52,74,59.33,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+48,67,51,55.33,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+48,67,51,55.33,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+48,67,51,55.33,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+48,67,51,55.33,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+48,67,51,55.33,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,0
+48,67,51,55.33,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+48,67,51,55.33,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+48,67,51,55.33,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+48,67,51,55.33,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+48,67,51,55.33,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+69,55,95,73.0,60,4,0,0,Web Development,Web Developer,Artificial Intelligence,Major,Artificial Intelligence,0
+69,55,95,73.0,65,4,0,0,Web Development,Web Developer,Machine Learning,Minor,Artificial Intelligence,0
+69,55,95,73.0,60,4,0,0,Web Development,Web Developer,Data Science,Minor,Data Science,0
+69,55,95,73.0,50,3,3,1,Web Development,Web Developer,Web Development,Core Elective,Web Development,1
+69,55,95,73.0,60,4,0,0,Web Development,Web Developer,Cyber Security,Major,Cyber Security,0
+69,55,95,73.0,55,3,0,0,Web Development,Web Developer,Cloud Computing,Core Elective,Cloud Computing,0
+69,55,95,73.0,70,4,0,0,Web Development,Web Developer,Deep Learning,Minor,Artificial Intelligence,0
+69,55,95,73.0,50,3,0,0,Web Development,Web Developer,Database Management Systems,Core Elective,Database,0
+69,55,95,73.0,70,4,0,0,Web Development,Web Developer,Natural Language Processing,Minor,Artificial Intelligence,0
+69,55,95,73.0,50,3,0,0,Web Development,Web Developer,Computer Networks,Core Elective,Networking,0
+68,91,95,84.67,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+68,91,95,84.67,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+68,91,95,84.67,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+68,91,95,84.67,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+68,91,95,84.67,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+68,91,95,84.67,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+68,91,95,84.67,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+68,91,95,84.67,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+68,91,95,84.67,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+68,91,95,84.67,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+46,43,81,56.67,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+46,43,81,56.67,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+46,43,81,56.67,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,0
+46,43,81,56.67,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+46,43,81,56.67,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,0
+46,43,81,56.67,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+46,43,81,56.67,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+46,43,81,56.67,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+46,43,81,56.67,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+46,43,81,56.67,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+93,40,45,59.33,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+93,40,45,59.33,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+93,40,45,59.33,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,0
+93,40,45,59.33,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+93,40,45,59.33,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,0
+93,40,45,59.33,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+93,40,45,59.33,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+93,40,45,59.33,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+93,40,45,59.33,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+93,40,45,59.33,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+50,66,71,62.33,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+50,66,71,62.33,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,0
+50,66,71,62.33,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+50,66,71,62.33,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+50,66,71,62.33,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+50,66,71,62.33,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+50,66,71,62.33,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,0
+50,66,71,62.33,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+50,66,71,62.33,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+50,66,71,62.33,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+53,95,65,71.0,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+53,95,65,71.0,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+53,95,65,71.0,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+53,95,65,71.0,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+53,95,65,71.0,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+53,95,65,71.0,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+53,95,65,71.0,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+53,95,65,71.0,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+53,95,65,71.0,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+53,95,65,71.0,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+50,64,40,51.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+50,64,40,51.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+50,64,40,51.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,0
+50,64,40,51.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+50,64,40,51.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+50,64,40,51.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,0
+50,64,40,51.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+50,64,40,51.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+50,64,40,51.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+50,64,40,51.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+56,99,90,81.67,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+56,99,90,81.67,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+56,99,90,81.67,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+56,99,90,81.67,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+56,99,90,81.67,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+56,99,90,81.67,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+56,99,90,81.67,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+56,99,90,81.67,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+56,99,90,81.67,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+56,99,90,81.67,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+58,67,84,69.67,60,4,0,0,Cyber Security,Security Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+58,67,84,69.67,65,4,0,0,Cyber Security,Security Analyst,Machine Learning,Minor,Artificial Intelligence,0
+58,67,84,69.67,60,4,0,0,Cyber Security,Security Analyst,Data Science,Minor,Data Science,0
+58,67,84,69.67,50,3,0,0,Cyber Security,Security Analyst,Web Development,Core Elective,Web Development,0
+58,67,84,69.67,60,4,3,1,Cyber Security,Security Analyst,Cyber Security,Major,Cyber Security,1
+58,67,84,69.67,55,3,1,0,Cyber Security,Security Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+58,67,84,69.67,70,4,0,0,Cyber Security,Security Analyst,Deep Learning,Minor,Artificial Intelligence,0
+58,67,84,69.67,50,3,0,0,Cyber Security,Security Analyst,Database Management Systems,Core Elective,Database,0
+58,67,84,69.67,70,4,0,0,Cyber Security,Security Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+58,67,84,69.67,50,3,2,0,Cyber Security,Security Analyst,Computer Networks,Core Elective,Networking,1
+82,85,71,79.33,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+82,85,71,79.33,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+82,85,71,79.33,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+82,85,71,79.33,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+82,85,71,79.33,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+82,85,71,79.33,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+82,85,71,79.33,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+82,85,71,79.33,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+82,85,71,79.33,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+82,85,71,79.33,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+52,58,53,54.33,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,0
+52,58,53,54.33,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,0
+52,58,53,54.33,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,0
+52,58,53,54.33,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+52,58,53,54.33,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+52,58,53,54.33,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,0
+52,58,53,54.33,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,0
+52,58,53,54.33,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+52,58,53,54.33,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,0
+52,58,53,54.33,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+77,87,74,79.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+77,87,74,79.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+77,87,74,79.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+77,87,74,79.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+77,87,74,79.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+77,87,74,79.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+77,87,74,79.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+77,87,74,79.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+77,87,74,79.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+77,87,74,79.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+87,60,43,63.33,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+87,60,43,63.33,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+87,60,43,63.33,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+87,60,43,63.33,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+87,60,43,63.33,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+87,60,43,63.33,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+87,60,43,63.33,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+87,60,43,63.33,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+87,60,43,63.33,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+87,60,43,63.33,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+77,70,72,73.0,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+77,70,72,73.0,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,1
+77,70,72,73.0,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+77,70,72,73.0,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+77,70,72,73.0,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+77,70,72,73.0,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+77,70,72,73.0,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,1
+77,70,72,73.0,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+77,70,72,73.0,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+77,70,72,73.0,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+50,43,72,55.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,0
+50,43,72,55.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,0
+50,43,72,55.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,0
+50,43,72,55.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+50,43,72,55.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,0
+50,43,72,55.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+50,43,72,55.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,0
+50,43,72,55.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+50,43,72,55.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+50,43,72,55.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+94,51,44,63.0,60,4,2,1,Artificial Intelligence,AI Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+94,51,44,63.0,65,4,2,1,Artificial Intelligence,AI Engineer,Machine Learning,Minor,Artificial Intelligence,0
+94,51,44,63.0,60,4,1,0,Artificial Intelligence,AI Engineer,Data Science,Minor,Data Science,1
+94,51,44,63.0,50,3,0,0,Artificial Intelligence,AI Engineer,Web Development,Core Elective,Web Development,0
+94,51,44,63.0,60,4,0,0,Artificial Intelligence,AI Engineer,Cyber Security,Major,Cyber Security,0
+94,51,44,63.0,55,3,1,0,Artificial Intelligence,AI Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+94,51,44,63.0,70,4,2,1,Artificial Intelligence,AI Engineer,Deep Learning,Minor,Artificial Intelligence,0
+94,51,44,63.0,50,3,0,0,Artificial Intelligence,AI Engineer,Database Management Systems,Core Elective,Database,0
+94,51,44,63.0,70,4,1,1,Artificial Intelligence,AI Engineer,Natural Language Processing,Minor,Artificial Intelligence,0
+94,51,44,63.0,50,3,0,0,Artificial Intelligence,AI Engineer,Computer Networks,Core Elective,Networking,0
+44,83,95,74.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+44,83,95,74.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+44,83,95,74.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+44,83,95,74.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+44,83,95,74.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+44,83,95,74.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+44,83,95,74.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+44,83,95,74.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+44,83,95,74.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+44,83,95,74.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1
+65,47,100,70.67,60,4,1,0,Data Science,Data Analyst,Artificial Intelligence,Major,Artificial Intelligence,1
+65,47,100,70.67,65,4,2,0,Data Science,Data Analyst,Machine Learning,Minor,Artificial Intelligence,1
+65,47,100,70.67,60,4,3,1,Data Science,Data Analyst,Data Science,Minor,Data Science,1
+65,47,100,70.67,50,3,0,0,Data Science,Data Analyst,Web Development,Core Elective,Web Development,0
+65,47,100,70.67,60,4,0,0,Data Science,Data Analyst,Cyber Security,Major,Cyber Security,0
+65,47,100,70.67,55,3,1,0,Data Science,Data Analyst,Cloud Computing,Core Elective,Cloud Computing,1
+65,47,100,70.67,70,4,1,0,Data Science,Data Analyst,Deep Learning,Minor,Artificial Intelligence,1
+65,47,100,70.67,50,3,0,0,Data Science,Data Analyst,Database Management Systems,Core Elective,Database,0
+65,47,100,70.67,70,4,2,0,Data Science,Data Analyst,Natural Language Processing,Minor,Artificial Intelligence,1
+65,47,100,70.67,50,3,0,0,Data Science,Data Analyst,Computer Networks,Core Elective,Networking,0
+55,77,78,70.0,60,4,1,0,Cloud Computing,Cloud Engineer,Artificial Intelligence,Major,Artificial Intelligence,1
+55,77,78,70.0,65,4,1,0,Cloud Computing,Cloud Engineer,Machine Learning,Minor,Artificial Intelligence,1
+55,77,78,70.0,60,4,1,0,Cloud Computing,Cloud Engineer,Data Science,Minor,Data Science,1
+55,77,78,70.0,50,3,0,0,Cloud Computing,Cloud Engineer,Web Development,Core Elective,Web Development,0
+55,77,78,70.0,60,4,1,0,Cloud Computing,Cloud Engineer,Cyber Security,Major,Cyber Security,1
+55,77,78,70.0,55,3,3,1,Cloud Computing,Cloud Engineer,Cloud Computing,Core Elective,Cloud Computing,1
+55,77,78,70.0,70,4,1,0,Cloud Computing,Cloud Engineer,Deep Learning,Minor,Artificial Intelligence,1
+55,77,78,70.0,50,3,0,0,Cloud Computing,Cloud Engineer,Database Management Systems,Core Elective,Database,0
+55,77,78,70.0,70,4,1,0,Cloud Computing,Cloud Engineer,Natural Language Processing,Minor,Artificial Intelligence,1
+55,77,78,70.0,50,3,1,0,Cloud Computing,Cloud Engineer,Computer Networks,Core Elective,Networking,1

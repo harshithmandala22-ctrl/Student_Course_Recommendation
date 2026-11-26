@@ -1,0 +1,11 @@
+course_id,course_name,category,domain,required_skills,prerequisites,min_average_marks,credits
+C01,Artificial Intelligence,Major,Artificial Intelligence,Python;Mathematics,Programming,60,4
+C02,Machine Learning,Minor,Artificial Intelligence,Python;Mathematics;Statistics,Python,65,4
+C03,Data Science,Minor,Data Science,Python;Statistics;Data Analysis,Mathematics,60,4
+C04,Web Development,Core Elective,Web Development,HTML;CSS;JavaScript,Basic Programming,50,3
+C05,Cyber Security,Major,Cyber Security,Networking;Linux;Security,Computer Networks,60,4
+C06,Cloud Computing,Core Elective,Cloud Computing,Python;Cloud;Networking,Computer Networks,55,3
+C07,Deep Learning,Minor,Artificial Intelligence,Python;Mathematics,Machine Learning,70,4
+C08,Database Management Systems,Core Elective,Database,SQL;Database,Basic Programming,50,3
+C09,Natural Language Processing,Minor,Artificial Intelligence,Python;Statistics,Machine Learning,70,4
+C10,Computer Networks,Core Elective,Networking,Networking;Linux,Basic Computer Knowledge,50,3
