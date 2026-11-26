@@ -1,2 +1,4 @@
 # Student_Course_Recommendation
-Hi This is Harshith Mandala ,I have very excited to say that "Student_Course_Recommendation" is very useful tool for Every Post Graduate/Graduate/Undergraduate students.
+Hi This "Student_Course_Recommendation" is something more than that for Every Graduate/Undergraduate students.
+This project simplify's our Carreer Goal based on our avg academic performances and then it'll predict the outcomes(Courses)
+
